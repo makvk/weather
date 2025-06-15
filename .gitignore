@@ -1,0 +1,6 @@
+config.py
+__pycache__/
+.venv/
+*/__pycache__/
+aiohttp_cache.sqlite
+DataBases/subscribers.db
